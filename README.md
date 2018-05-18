@@ -1,1 +1,1 @@
-# test-mac-app-travis
+# mac-app-travis-test
